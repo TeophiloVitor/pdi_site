@@ -1,0 +1,12 @@
+= DCA0445: Processamento Digital de Imagens =
+
+== Teophilo Vitor ==
+<teophilo.vitor.709@ufrn.edu.br>
+
+== Graduação em Engenharia da Computação e Automação - UFRN ==
+
+=== Lista de exercícios práticos ===
+
+Ainda não desenvolvi completamente a conversãoo do README para Asciidoctor, portanto aqui deixarei um Link para o meu README onde está tudo devidamente explicado e posteriormente atualizo está página.
+
+<https://github.com/TeophiloVitor/PDI_Lista#readme>
