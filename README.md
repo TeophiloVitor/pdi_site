@@ -14,25 +14,25 @@ Para rodar os códigos, é preciso ter Python instalado na sua máquina e a bibl
 
 ## Sumário
 
-[[CAPÍTULO 2]](https://github.com/TeophiloVitor/PDI_Lista#-exerc%C3%ADcio-21)  
+[[CAPÍTULO 2]](https://teophilovitor.github.io/pdi_site/#-exerc%C3%ADcio-21)  
 
-[[CAPÍTULO 3]](https://github.com/TeophiloVitor/PDI_Lista#-exerc%C3%ADcio-3)  
+[[CAPÍTULO 3]](https://teophilovitor.github.io/pdi_site/#-exerc%C3%ADcio-3)  
 
-[[CAPÍTULO 4]](https://github.com/TeophiloVitor/PDI_Lista#-exerc%C3%ADcio-4)  
+[[CAPÍTULO 4]](https://teophilovitor.github.io/pdi_site/#-exerc%C3%ADcio-4)  
 
-[[CAPÍTULO 5]](https://github.com/TeophiloVitor/PDI_Lista#-exerc%C3%ADcio-51)  
+[[CAPÍTULO 5]](https://teophilovitor.github.io/pdi_site/#-exerc%C3%ADcio-51)  
 
-[[CAPÍTULO 6]](https://github.com/TeophiloVitor/PDI_Lista#-exerc%C3%ADcio-61)  
+[[CAPÍTULO 6]](https://teophilovitor.github.io/pdi_site/#-exerc%C3%ADcio-61)  
 
-[[CAPÍTULO 7]](https://github.com/TeophiloVitor/PDI_Lista#-exerc%C3%ADcio-7)  
+[[CAPÍTULO 7]](https://teophilovitor.github.io/pdi_site/#-exerc%C3%ADcio-7)  
 
-[[CAPÍTULO 8]](https://github.com/TeophiloVitor/PDI_Lista#-exerc%C3%ADcio-8)  
+[[CAPÍTULO 8]](https://teophilovitor.github.io/pdi_site/#-exerc%C3%ADcio-8)  
 
-[[CAPÍTULO 9]](https://github.com/TeophiloVitor/PDI_Lista#-exerc%C3%ADcio-9)  
+[[CAPÍTULO 9]](https://teophilovitor.github.io/pdi_site/#-exerc%C3%ADcio-9)  
 
-[[CAPÍTULO 11]](https://github.com/TeophiloVitor/PDI_Lista#-exerc%C3%ADcio-11)  
+[[CAPÍTULO 11]](https://teophilovitor.github.io/pdi_site/#-exerc%C3%ADcio-11)  
 
-[[CAPÍTULO 12]](https://github.com/TeophiloVitor/PDI_Lista#-exerc%C3%ADcio-12)  
+[[CAPÍTULO 12]](https://teophilovitor.github.io/pdi_site/#-exerc%C3%ADcio-12)  
 
 ## 🔔 PARTE I
 
