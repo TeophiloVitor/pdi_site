@@ -6,7 +6,7 @@ Graduação em Engenharia da Computação - UFRN
 <teophilo.vitor.709@ufrn.edu.br>  
 
 ## 🔎 Objetivo 
-Neste repositório serão apresentados os códigos, resultados e explicações acerca dos exercícios desenvolvidos ao longo da disciplina de Processamento Digital de Imagens, os respectivos enunciados e material da disciplina podem ser encontrados na página do professor Dr. Agostinho [[Link]](https://agostinhobritojr.github.io/tutorial/pdi/). Os códigos foram desenvolvidos em Python juntamente com a biblioteca OpenCV, para isso converti os códigos disponibilizados pelo professor para Python e no discorrer desde README eles serão apresentados e explicados.
+Neste repositório serão apresentados os códigos, resultados e explicações acerca dos exercícios desenvolvidos ao longo da disciplina de Processamento Digital de Imagens, os respectivos enunciados e material da disciplina podem ser encontrados na página do professor Dr. Agostinho [[Link]](https://agostinhobritojr.github.io/tutorial/pdi/). Os códigos foram desenvolvidos em Python juntamente com a biblioteca OpenCV, para isso converti os códigos disponibilizados pelo professor para Python e no discorrer desta página eles serão apresentados e explicados.
 
 ## 📜 Solução
 
